@@ -4,9 +4,9 @@
 
 ### 与传统app的区别
 
-微信小程序运行在微信中，而传统app是直接运行在操作系统上。可以类比的产品是chrome app，区别是chrome app是桌面的，所以每个chrome app都有独立窗口，只是在切换应用时操作系统会认为chrome和chrome app是同一个应用，稍有不便，除此之外几乎和native app一模一样，但是移动端的微信不能实现多窗口，这一点十分尴尬
+微信小程序运行在微信中，而传统app是直接运行在操作系统上。可以类比的产品是chrome app，区别是chrome app是桌面的，所以每个chrome app都有独立窗口，只是在切换应用时操作系统会认为chrome和chrome app是同一个应用，稍有不便，除此之外几乎和native app一模一样，但是移动端的微信不能实现多窗口，这一点十分尴尬，如下图，感受一下
 
-<iframe height=498 width=510 src='http://player.youku.com/embed/XMTgzMjkyODA4MA==' frameborder=0 'allowfullscreen'></iframe>
+![感受一下小程序](./1.gif)
 
 对于用户而言，在html5和native之间多了一个选择，16G手机的福音。
 对于企业而言，开发小程序的成本低于native app，已经有native app
