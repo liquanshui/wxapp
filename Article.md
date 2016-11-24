@@ -6,13 +6,13 @@
 
 微信小程序运行在微信中，而传统app是直接运行在操作系统上。可以类比的产品是chrome app，区别是chrome app是桌面的，所以每个chrome app都有独立窗口，只是在切换应用时操作系统会认为chrome和chrome app是同一个应用，稍有不便，除此之外几乎和native app一模一样，但是移动端的微信不能实现多窗口，这一点十分尴尬
 
-<video src="http://maoyan.meituan.net/movie/videos/640x1138daeb763620144bbdb09775c3a51e6557.mp4" autoplay loop heigth="500" />
+<iframe height=498 width=510 src='http://player.youku.com/embed/XMTgzMjkyODA4MA==' frameborder=0 'allowfullscreen'></iframe>
 
 对于用户而言，在html5和native之间多了一个选择，16G手机的福音。
 对于企业而言，开发小程序的成本低于native app，已经有native app
 对于微信而言，功能更强大的微信用户粘性更大，地位更加稳定
 
-##### 问答
+#### 问答
 
 - **微信小程序是html5吗？**
 不是，微信小程序是利用web技术开发native页面。体验比html5要好很多，比纯的native应用稍差（因为中间有一个转义的过程）。并且小程序中不能嵌入web页面，也不能跳转到web页面。
@@ -28,7 +28,7 @@
 - 不能主动给用户推送微信消息，只有当用户完成某个操作时，比如付款，这时可以给用户推送一个付款成功的消息，而且消息有固定的模板，自由发挥的空间很小
 
 
-##### 问答
+#### 问答
 
 - **能不能做个“微信”？**
 不能，因为没有主动推送消息的能力
